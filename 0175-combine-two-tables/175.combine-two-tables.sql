@@ -8,7 +8,7 @@
 # Write your MySQL query statement below
 
 SELECT firstName, lastName, city, state
-FROM Person P left join Address A
+FROM Person P LEFT JOIN Address A
 ON P.personId = A.personId
 
 -- @lc code=end
