@@ -20,7 +20,7 @@ public class Solution {
             {
                 parStack.Push(c);
             }
-            else if (")]}".Contains(c) && parStack.Count > 0)
+            else if (parStack.Count > 0)
             {
                 if (parDict[parStack.Pop()] != c)
                     return false;

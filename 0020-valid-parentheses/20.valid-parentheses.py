@@ -17,7 +17,7 @@ class Solution:
         for char in s:
             if char in "([{":
                 par_stack.append(char)
-            elif char in ")]}" and len(par_stack) > 0:
+            elif len(par_stack) > 0:
                 if par_dict[par_stack.pop()] != char:
                     return False
             else:
