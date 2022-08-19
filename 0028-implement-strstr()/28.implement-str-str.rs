@@ -5,8 +5,6 @@
  */
 
 // @lc code=start
-use std::cmp::Ordering;
-
 impl Solution {
     pub fn str_str(haystack: String, needle: String) -> i32 {
         let h_len = haystack.len();
