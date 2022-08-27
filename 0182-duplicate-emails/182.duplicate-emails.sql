@@ -7,10 +7,10 @@
 -- @lc code=start
 # Write your MySQL query statement below
 
-SELECT email
-FROM Person
+  SELECT email
+    FROM Person
 GROUP BY email
-HAVING COUNT(email) > 1;
+  HAVING COUNT(email) > 1;
 
 -- @lc code=end
 
