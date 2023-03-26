@@ -6,7 +6,8 @@
 
 -- @lc code=start
 # Write your MySQL query statement below
-    SELECT u.name, SUM(t.amount) AS balance
+    SELECT u.name,
+           SUM(t.amount) AS balance
       FROM Transactions t
 INNER JOIN Users u
         ON t.account = u.account
