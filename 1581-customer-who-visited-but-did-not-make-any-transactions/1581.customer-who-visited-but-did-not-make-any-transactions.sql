@@ -7,7 +7,7 @@
 -- @lc code=start
 # Write your MySQL query statement below
   SELECT DISTINCT v.customer_id,
-                  COUNT(v.visit_id) AS count_no_trans
+         COUNT(v.visit_id) AS count_no_trans
     FROM Visits v
    WHERE v.visit_id NOT IN (SELECT t.visit_id FROM Transactions t)
 GROUP BY v.customer_id
