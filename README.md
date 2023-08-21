@@ -34,6 +34,7 @@
 - [1084\. Sales Analysis I](/1084-sales-analysis-i)
 - [1141\. User Activity for the Past 30 Days I](/1141-user-activity-for-the-past-30-days-i)
 - [1148\. Article Views I](/1148-article-views-i)
+- [1173\. Immediate Food Delivery I](/1173-immediate-food-delivery-i)
 - [1179\. Reformat Department Table](/1179-reformat-department-table)
 - [1211\. Queries Quality and Percentage](/1211-queries-quality-and-percentage)
 - [1251\. Average Selling Price](/1251-average-selling-price)
