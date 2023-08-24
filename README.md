@@ -93,8 +93,9 @@
 - [58\. Length of Last Word](/0058-length-of-last-word)
 - [66\. Plus One](/0066-plus-one)
 - [67\. Add Binary](/0067-add-binary)
-- [181\. Employees Earning More Than Their Managers](/0181-employees-earning-more-than-their-managers)
-- [182\. Duplicate Emails](/0182-duplicate-emails)
+- [181\. [Pandas] Employees Earning More Than Their Managers](/0181-employees-earning-more-than-their-managers)
+- [182\. [Pandas] Duplicate Emails](/0182-duplicate-emails)
+- [183\. [Pandas] Customers Who Never Order](/0183-customers-who-never-order)
 
 ### Medium
 - [1091\. Shortest Path in Binary Matrix](/1091-shortest-path-in-binary-matrix)
