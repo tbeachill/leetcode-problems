@@ -94,6 +94,7 @@
 - [66\. Plus One](/0066-plus-one)
 - [67\. Add Binary](/0067-add-binary)
 - [181\. Employees Earning More Than Their Managers](/0181-employees-earning-more-than-their-managers)
+- [182\. Duplicate Emails](/0182-duplicate-emails)
 
 ### Medium
 - [1091\. Shortest Path in Binary Matrix](/1091-shortest-path-in-binary-matrix)
