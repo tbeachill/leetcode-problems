@@ -96,6 +96,11 @@
 - [181\. [Pandas] Employees Earning More Than Their Managers](/0181-employees-earning-more-than-their-managers)
 - [182\. [Pandas] Duplicate Emails](/0182-duplicate-emails)
 - [183\. [Pandas] Customers Who Never Order](/0183-customers-who-never-order)
+- [196\. [Pandas] Delete Duplicate Emails](/0196-delete-duplicate-emails/)
+- [586\. [Pandas] Customer Placing The Largest Number of Orders](/0586-customer-placing-the-largest-number-of-orders/)
+- [595\. [Pandas] Big Countries](/0595-big-countries/)
+- [596\. [Pandas] Classes More Than 5 Students](/0596-classes-more-than-5-students/)
+- [607\. [Pandas] Sales Person](/0607-sales-person/)
 
 ### Medium
 - [1091\. Shortest Path in Binary Matrix](/1091-shortest-path-in-binary-matrix)
