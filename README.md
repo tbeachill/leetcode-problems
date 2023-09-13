@@ -101,6 +101,7 @@
 - [595\. [Pandas] Big Countries](/0595-big-countries/)
 - [596\. [Pandas] Classes More Than 5 Students](/0596-classes-more-than-5-students/)
 - [607\. [Pandas] Sales Person](/0607-sales-person/)
+- [619\. [Pandas] Biggest Single Number](/0619-biggest-single-number/)
 
 ### Medium
 - [1091\. Shortest Path in Binary Matrix](/1091-shortest-path-in-binary-matrix)
