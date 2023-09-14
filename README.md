@@ -11,6 +11,9 @@
     - [Medium](#medium-2)
   - [C#](#c)
     - [Easy](#easy-3)
+  - [Bash](#bash)
+    - [Easy](#easy-4)
+    - [Medium](#medium-3)
 
 ## SQL
 ### Easy
@@ -147,3 +150,12 @@
 - [58\. Length of Last Word](/0058-length-of-last-word)
 - [66\. Plus One](/0066-plus-one)
 - [67\. Add Binary](/0067-add-binary)
+
+## Bash
+### Easy
+ - [193\. Valid Phone Numbers](/0193-valid-phone-numbers/)
+ - [195\. Tenth Line](/0195-tenth-line/)
+
+### Medium
+ - [192\. Word Frequency](/0192-word-frequency/)
+ - [194\. Transpose File](/0194-transpose-file/)
