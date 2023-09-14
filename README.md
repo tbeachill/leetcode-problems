@@ -71,12 +71,14 @@
 - [180\. Consecutive Numbers](/0180-consecutive-numbers)
 - [184\. Department Highest Salary](/0184-department-highest-salary)
 - [550\. Game Play Analysis IV](/0550-game-play-analysis-iv)
+- [570\. Managers With At Least 5 Direct Reports](/0570-managers-with-at-least-5-direct-reports/)
 - [585\. Investments in 2016](/0585-investments-in-2016)
 - [602\. Friend Requests II: Who Has the Most Friends](/0602-friend-requests-ii-who-has-the-most-friends)
 - [608\. Tree Node](/0608-tree-node)
 - [626\. Exchange Seats](/0626-exchange-seats)
 - [1045\. Customers Who Bought All Products](/1045-customers-who-bought-all-products)
 - [1070\. Product Sales Analysis III](/1070-product-sales-analysis-iii)
+- [1158\. Market Analysis I](/1158-market-analysis-i/)
 
 ## Python
 ### Easy
