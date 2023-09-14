@@ -103,6 +103,7 @@
 - [607\. [Pandas] Sales Person](/0607-sales-person/)
 - [619\. [Pandas] Biggest Single Number](/0619-biggest-single-number/)
 - [620\. [Pandas] Not Boring Movies](/0620-not-boring-movies/)
+- [1050\. [Pandas] Actors and Directors Who Cooperated At Least Three Times](/1050-actors-and-directors-who-cooperated-at-least-three-times/)
 
 ### Medium
 - [1091\. Shortest Path in Binary Matrix](/1091-shortest-path-in-binary-matrix)
