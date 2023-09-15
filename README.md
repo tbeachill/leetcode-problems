@@ -82,6 +82,7 @@
 - [1045\. Customers Who Bought All Products](/1045-customers-who-bought-all-products)
 - [1070\. Product Sales Analysis III](/1070-product-sales-analysis-iii)
 - [1158\. Market Analysis I](/1158-market-analysis-i/)
+- [1164\. Product Price at a Given Date](/1164-product-price-at-a-given-date/)
 
 ## Python
 ### Easy
@@ -109,6 +110,7 @@
 - [619\. [Pandas] Biggest Single Number](/0619-biggest-single-number/)
 - [620\. [Pandas] Not Boring Movies](/0620-not-boring-movies/)
 - [1050\. [Pandas] Actors and Directors Who Cooperated At Least Three Times](/1050-actors-and-directors-who-cooperated-at-least-three-times/)
+- [1068\. [Pandas] Product Sales Analysis I](/1068-product-sales-analysis-i/)
 
 ### Medium
 - [1091\. Shortest Path in Binary Matrix](/1091-shortest-path-in-binary-matrix)
