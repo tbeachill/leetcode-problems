@@ -111,6 +111,7 @@
 - [620\. [Pandas] Not Boring Movies](/0620-not-boring-movies/)
 - [1050\. [Pandas] Actors and Directors Who Cooperated At Least Three Times](/1050-actors-and-directors-who-cooperated-at-least-three-times/)
 - [1068\. [Pandas] Product Sales Analysis I](/1068-product-sales-analysis-i/)
+- [1084\. [Pandas] Sales Analysis III](/1084-sales-analysis-iii/)
 
 ### Medium
 - [1091\. Shortest Path in Binary Matrix](/1091-shortest-path-in-binary-matrix)
