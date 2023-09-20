@@ -84,6 +84,7 @@
 - [1158\. Market Analysis I](/1158-market-analysis-i/)
 - [1164\. Product Price at a Given Date](/1164-product-price-at-a-given-date/)
 - [1174\. Immediate Food Delivery II](/1174-immediate-food-delivery-ii/)
+- [1193\. Monthly Transactions I](/1193-monthly-transactions-i/)
 
 ## Python
 ### Easy
