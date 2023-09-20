@@ -104,6 +104,7 @@
 - [182\. [Pandas] Duplicate Emails](/0182-duplicate-emails)
 - [183\. [Pandas] Customers Who Never Order](/0183-customers-who-never-order)
 - [196\. [Pandas] Delete Duplicate Emails](/0196-delete-duplicate-emails/)
+- [511\. [Pandas] Game Play Analysis I](/0511-game-play-analysis-i/)
 - [586\. [Pandas] Customer Placing The Largest Number of Orders](/0586-customer-placing-the-largest-number-of-orders/)
 - [595\. [Pandas] Big Countries](/0595-big-countries/)
 - [596\. [Pandas] Classes More Than 5 Students](/0596-classes-more-than-5-students/)
