@@ -85,6 +85,7 @@
 - [1164\. Product Price at a Given Date](/1164-product-price-at-a-given-date/)
 - [1174\. Immediate Food Delivery II](/1174-immediate-food-delivery-ii/)
 - [1193\. Monthly Transactions I](/1193-monthly-transactions-i/)
+- [1204\. Last Person to Fit in the Bus](/1204-last-person-to-fit-in-the-bus/)
 
 ## Python
 ### Easy
@@ -101,6 +102,7 @@
 - [58\. Length of Last Word](/0058-length-of-last-word)
 - [66\. Plus One](/0066-plus-one)
 - [67\. Add Binary](/0067-add-binary)
+- [175\. [Pandas] Combine Two Tables](/0175-combine-two-tables/)
 - [181\. [Pandas] Employees Earning More Than Their Managers](/0181-employees-earning-more-than-their-managers)
 - [182\. [Pandas] Duplicate Emails](/0182-duplicate-emails)
 - [183\. [Pandas] Customers Who Never Order](/0183-customers-who-never-order)
