@@ -86,6 +86,7 @@
 - [1174\. Immediate Food Delivery II](/1174-immediate-food-delivery-ii/)
 - [1193\. Monthly Transactions I](/1193-monthly-transactions-i/)
 - [1204\. Last Person to Fit in the Bus](/1204-last-person-to-fit-in-the-bus/)
+- [1321\. Restaurant Growth](/1321-restaurant-growth/)
 
 ## Python
 ### Easy
