@@ -120,6 +120,7 @@
 - [1084\. [Pandas] Sales Analysis III](/1084-sales-analysis-iii/)
 
 ### Medium
+- [176\. [Pandas] Second Highest Salary](/0176-second-highest-salary/)
 - [1091\. Shortest Path in Binary Matrix](/1091-shortest-path-in-binary-matrix)
 
 ## Rust
