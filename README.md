@@ -88,6 +88,7 @@
 - [1204\. Last Person to Fit in the Bus](/1204-last-person-to-fit-in-the-bus/)
 - [1321\. Restaurant Growth](/1321-restaurant-growth/)
 - [1341\. Movie Rating](/1341-movie-rating/)
+- [1393\. Capital Gain/Loss](/1393-capital-gain-loss/)
 
 ## Python
 ### Easy
