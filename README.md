@@ -89,6 +89,7 @@
 - [1321\. Restaurant Growth](/1321-restaurant-growth/)
 - [1341\. Movie Rating](/1341-movie-rating/)
 - [1393\. Capital Gain/Loss](/1393-capital-gain-loss/)
+- [1907\. Count Salary Categories](/1907-count-salary-categories/)
 
 ## Python
 ### Easy
