@@ -90,6 +90,7 @@
 - [1341\. Movie Rating](/1341-movie-rating/)
 - [1393\. Capital Gain/Loss](/1393-capital-gain-loss/)
 - [1907\. Count Salary Categories](/1907-count-salary-categories/)
+- [1934\. Confirmation Rate](/1934-confirmation-rate/)
 
 ## Python
 ### Easy
