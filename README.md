@@ -3,6 +3,7 @@
   - [SQL](#sql)
     - [Easy](#easy)
     - [Medium](#medium)
+    - [Hard](#hard)
   - [Python](#python)
     - [Easy](#easy-1)
     - [Medium](#medium-1)
@@ -91,6 +92,9 @@
 - [1393\. Capital Gain/Loss](/1393-capital-gain-loss/)
 - [1907\. Count Salary Categories](/1907-count-salary-categories/)
 - [1934\. Confirmation Rate](/1934-confirmation-rate/)
+
+### Hard
+- [185\. Department Top Three Salaries](/0185-department-top-three-salaries/)
 
 ## Python
 ### Easy
