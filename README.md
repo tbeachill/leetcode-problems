@@ -95,6 +95,7 @@
 
 ### Hard
 - [185\. Department Top Three Salaries](/0185-department-top-three-salaries/)
+- [262\. Trips and Users](/0262-trips-and-users/)
 
 ## Python
 ### Easy
